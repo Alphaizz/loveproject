@@ -599,6 +599,7 @@ body {
     /* Keeping green for stem */
     border-radius: 50% 50%;
     transform: rotate(100deg);
+    margin-left: 15px;
 }
 
 .leafs {
